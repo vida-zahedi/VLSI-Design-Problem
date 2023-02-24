@@ -1,0 +1,6 @@
+x coordinates := [0, 14, 11, 14, 14, 4, 11, 3, 7, 0, 7, 4]
+y coordinates:= [0, 0, 3, 4, 10, 3, 8, 0, 3, 3, 0, 11]
+OptHeight := 17
+----------
+==========
+Finished in 365msec

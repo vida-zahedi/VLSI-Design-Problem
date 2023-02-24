@@ -1,0 +1,11 @@
+Circuit placements:
+Circuit 0 : x = 3 , y = 0 , width = 3 , height = 3
+Circuit 1 : x = 3 , y = 3 , width = 3 , height = 4
+Circuit 2 : x = 11 , y = 8 , width = 3 , height = 5
+Circuit 3 : x = 0 , y = 9 , width = 3 , height = 6
+Circuit 4 : x = 3 , y = 7 , width = 3 , height = 7
+Circuit 5 : x = 11 , y = 0 , width = 3 , height = 8
+Circuit 6 : x = 0 , y = 0 , width = 3 , height = 9
+Circuit 7 : x = 7 , y = 0 , width = 4 , height = 5
+Circuit 8 : x = 6 , y = 5 , width = 5 , height = 10
+0.8556814193725586 execution-time

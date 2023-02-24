@@ -1,0 +1,8 @@
+Best objective 9.000000000000e+00, best bound 9.000000000000e+00, gap 0.0000%
+Circuit placements:
+Circuit 0 : x = 6 , y = 0 , width = 3 , height = 3
+Circuit 1 : x = 3 , y = 5 , width = 3 , height = 4
+Circuit 2 : x = 3 , y = 0 , width = 3 , height = 5
+Circuit 3 : x = 6 , y = 3 , width = 3 , height = 6
+Circuit 4 : x = 0 , y = 0 , width = 3 , height = 9
+0.039414405822753906 execution-time

@@ -1,0 +1,6 @@
+x coordinates := [8, 8, 0, 0, 3, 3, 7]
+y coordinates:= [0, 3, 6, 0, 4, 0, 7]
+OptHeight := 11
+----------
+==========
+Finished in 206msec.

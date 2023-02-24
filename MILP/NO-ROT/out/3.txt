@@ -1,0 +1,8 @@
+Minimized height: 10.0
+Circuit 0 : x = 7.0 y = 7.0
+Circuit 1 : x = 4.0 y = 6.0
+Circuit 2 : x = 4.0 y = 0.0
+Circuit 3 : x = 7.0 y = 0.0
+Circuit 4 : x = 0.0 y = 0.0
+Circuit 5 : x = 0.0 y = 4.0
+0.09050989151000977 execution-time

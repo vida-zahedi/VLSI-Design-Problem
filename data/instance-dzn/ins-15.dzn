@@ -1,0 +1,4 @@
+Width = 22; %plate width
+Number = 16; % number of circuits
+Widths = [6,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3];
+Heights = [4,19,3,22,14,13,12,11,10,9,8,7,6,5,4,3];

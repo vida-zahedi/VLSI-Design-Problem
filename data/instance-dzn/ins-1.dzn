@@ -1,0 +1,4 @@
+Width = 8;  %width of the plate(
+Number = 4; % Number of peices
+Widths = [3,3,5,5];
+Heights = [3,5,3,5];

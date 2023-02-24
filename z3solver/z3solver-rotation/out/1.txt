@@ -1,0 +1,4 @@
+x_vals:  [5, 0, 0, 3]
+y_vals:  [0, 3, 0, 3]
+Minimized height:  8
+6.876420736312866
